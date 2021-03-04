@@ -1,0 +1,13 @@
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\bin\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.exe
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\bin\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.deps.json
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\bin\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.runtimeconfig.json
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\bin\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.runtimeconfig.dev.json
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\bin\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.dll
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\bin\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.pdb
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\obj\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.csprojAssemblyReference.cache
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\obj\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\obj\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.AssemblyInfo.cs
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\obj\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\obj\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.dll
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\obj\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.pdb
+C:\Estudos\Curso C#\projetos\Herança\TesteFinalHerancaPolimorfismo\TesteFinalHerancaPolimorfismo\obj\Debug\netcoreapp3.1\TesteFinalHerancaPolimorfismo.genruntimeconfig.cache
